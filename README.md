@@ -1,8 +1,10 @@
 # Lab 5 - Starter
 Nam
 
-Expose : 
-Explore : 
+Expose : https://afacade.github.io/Lab5_Starter/expose.html
+
+
+Explore : https://afacade.github.io/Lab5_Starter/explore.html
 
 
 1. No, I would not use unit testing to test the message feature. This feature would simply contain too many different functions to test at once. Unit testing is used to simply test individual functions.
